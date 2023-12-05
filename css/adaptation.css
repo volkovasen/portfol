@@ -62,6 +62,12 @@
     .subtitle__footer {
         font-size: 225px;
     }
+    .cursor-dot {
+        display: none;
+    }
+    .cursor-dot-outline {
+        display: none;
+    }
 }
 @media (max-width:820px) {
     .subtitle {
